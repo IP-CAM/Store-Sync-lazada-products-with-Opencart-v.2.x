@@ -1,2 +1,2 @@
 # store_sync
-Sync lazada products from opencart
+Store Sync lazada products with Opencart v.2.x
